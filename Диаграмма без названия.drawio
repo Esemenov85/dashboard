@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-20T11:35:17.448Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Tc8pjGHSVxc2nNYJCSE-" version="23.1.5" type="github">
+<mxfile modified="2024-02-20T11:40:43.870Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ApMUiuOFvRs7w2bFMU4d" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -177,6 +177,15 @@
         </mxCell>
         <mxCell id="7rP-CeqJjFyxMtN8SH18-50" value="&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Запас семян лесных растений для лесовостановления и лесоразведения, кг&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество выращенного посадочного материала лесных растений, тысяч штук&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество населения, вовлеченного в мероприятия по воспроизводству лесов и лесоразведению&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь лесовостановления и лесоразведения, гектар&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь погибших лесных насаждений, гектар&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7rP-CeqJjFyxMtN8SH18-49">
           <mxGeometry y="26" width="480" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-53" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#10739E;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="343.5" y="780" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-54" value="Лесное хозяйство" style="fillColor=#10739E;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="770" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-55" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="820" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
