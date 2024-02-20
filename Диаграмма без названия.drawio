@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-20T11:42:17.852Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vgFwS75Dod6TsuzEG2Bs" version="23.1.5" type="github">
+<mxfile modified="2024-02-20T11:45:10.014Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gWyq1mjJ3ydZPTvTTWns" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="7rP-CeqJjFyxMtN8SH18-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-55" target="7rP-CeqJjFyxMtN8SH18-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-55" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-55" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Стратегия развития лесного хозяйства;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="820" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
