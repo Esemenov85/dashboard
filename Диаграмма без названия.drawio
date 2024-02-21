@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-21T06:27:46.793Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="fw0X54z9YyB9IbCQFz3t" version="23.1.5" type="github">
+<mxfile modified="2024-02-21T06:29:28.153Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="LjnfCTYd-DIgd-bydElv" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-64" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#10739E;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="140" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLNjNVSxcbgXZy6OQrdi-65" target="7rP-CeqJjFyxMtN8SH18-13">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLNjNVSxcbgXZy6OQrdi-65" target="7rP-CeqJjFyxMtN8SH18-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-65" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#F2931E;labelPosition=center;align=center;fontColor=#F2931E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" parent="1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-66" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#AE4132;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="280" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLNjNVSxcbgXZy6OQrdi-67" target="7rP-CeqJjFyxMtN8SH18-20">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLNjNVSxcbgXZy6OQrdi-67" target="7rP-CeqJjFyxMtN8SH18-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-67" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#23445D;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-68" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#12AAB5;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="420" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLNjNVSxcbgXZy6OQrdi-69" target="7rP-CeqJjFyxMtN8SH18-5">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLNjNVSxcbgXZy6OQrdi-69" target="7rP-CeqJjFyxMtN8SH18-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-69" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#56517E;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" parent="1" vertex="1">
@@ -91,104 +91,113 @@
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-108" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Диспансеризация;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;&quot;&gt;Эпид обстановка;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Численность мед работников;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Кол-во койко-мест;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Реализация публично сформированных целей и задач&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Профилактика и лечение вирусного гепатита С;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Обеспеченность жизненно-важными лс;&lt;/div&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="610" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QLNjNVSxcbgXZy6OQrdi-109" target="7rP-CeqJjFyxMtN8SH18-4">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QLNjNVSxcbgXZy6OQrdi-109" target="7rP-CeqJjFyxMtN8SH18-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-109" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#F2931E;labelPosition=center;align=center;fontColor=#F2931E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" parent="1" vertex="1">
-          <mxGeometry x="577.5" y="975" width="246" height="60" as="geometry" />
+          <mxGeometry x="577.5" y="1067" width="246" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-110" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Кадастр (МЗИО)&lt;/font&gt;" style="fillColor=#F2931E;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="593.5" y="960" width="160" height="30" as="geometry" />
+          <mxGeometry x="593.5" y="1052" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QLNjNVSxcbgXZy6OQrdi-111" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Реализация госимущества;&lt;br&gt;Результаты торгов госимущества;&lt;br&gt;Реализация земельных участков в собственность и аренду;&lt;br&gt;Предоставление субсидий НКО и ГУП;&lt;br&gt;&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="593.5" y="1015" width="160" height="105" as="geometry" />
+          <mxGeometry x="593.5" y="1107" width="160" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-4" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="975" width="60" height="60" as="geometry" />
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-4" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="1067" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-5" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-5" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="490" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-8" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-8" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="570" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-9" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="420" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="280" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="140" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="210" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-13" target="7rP-CeqJjFyxMtN8SH18-12">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-13" target="7rP-CeqJjFyxMtN8SH18-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-16" target="7rP-CeqJjFyxMtN8SH18-20">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-16" target="7rP-CeqJjFyxMtN8SH18-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-16" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-16" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="410" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-17" target="7rP-CeqJjFyxMtN8SH18-20">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-17" target="7rP-CeqJjFyxMtN8SH18-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="920" y="290" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-20" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-20" value="" style="shape=cross;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="885" y="365" width="30" height="30" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Министерство здравоохранения&lt;/li&gt;&lt;li&gt;Министерство культуры&lt;/li&gt;&lt;li&gt;Министерство лесного хозяйства&lt;/li&gt;&lt;li&gt;Министерство образования и науки&lt;/li&gt;&lt;li&gt;Министерство по делам молодежи Республики Татарстан&lt;/li&gt;&lt;li&gt;Министерство промышленности и торговли&lt;/li&gt;&lt;li&gt;Министерство сельского хозяйства и продовольствия&lt;/li&gt;&lt;li&gt;Министерство спорта Республики Татарстан&lt;/li&gt;&lt;li&gt;Министерство строительства, архитектуры и жилищно-коммунального хозяйства&lt;/li&gt;&lt;li&gt;Министерство транспорта и дорожного хозяйства&lt;/li&gt;&lt;li&gt;Министерство труда, занятости и социальной защиты&lt;/li&gt;&lt;li&gt;Министерство цифрового развития государственного управления, информационных технологий и связи Республики Татарстан&lt;/li&gt;&lt;li&gt;Министерство экологии и природных ресурсов&lt;/li&gt;&lt;li&gt;Министерство экономики&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" treeRoot="1" id="7rP-CeqJjFyxMtN8SH18-30">
-          <mxCell style="whiteSpace=wrap;html=1;align=left;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxCell style="whiteSpace=wrap;html=1;align=left;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
             <mxGeometry x="20" y="1290" width="430" height="260" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-37" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#666600;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-37" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#666600;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="577.5" y="655" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-38" value="Культура" style="fillColor=#666600;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-38" value="Культура" style="fillColor=#666600;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593.5" y="640" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-39" target="7rP-CeqJjFyxMtN8SH18-41">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-39" target="7rP-CeqJjFyxMtN8SH18-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-39" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Расходы на оплату труда;&lt;br&gt;Цифровизация услуг;&lt;br&gt;Поступление доходов от оказания платных услуг;&lt;br&gt;Индикаторы ОВДЛ;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-39" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Расходы на оплату труда;&lt;br&gt;Цифровизация услуг;&lt;br&gt;Поступление доходов от оказания платных услуг;&lt;br&gt;Индикаторы ОВДЛ;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="593.5" y="695" width="160" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-53" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#67AB9F;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-53" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#67AB9F;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;" parent="1" vertex="1">
           <mxGeometry x="343.5" y="780" width="246" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-54" value="Лесное хозяйство" style="fillColor=#67AB9F;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-54" value="Лесное хозяйство" style="fillColor=#67AB9F;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="770" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-55" target="7rP-CeqJjFyxMtN8SH18-49">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-55" target="7rP-CeqJjFyxMtN8SH18-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-55" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;Лесовосстановление и Вырубка;&lt;br&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений;&lt;br&gt;Информация о наличии или отсутствии лесопарков, лесничеств на территории МО;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-55" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;Лесовосстановление и Вырубка;&lt;br&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений;&lt;br&gt;Информация о наличии или отсутствии лесопарков, лесничеств на территории МО;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="820" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-41" value="Индикаторы ОВДЛ" style="swimlane;fillColor=#FFFFCC;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-41" value="Индикаторы ОВДЛ" style="swimlane;fillColor=#FFFFCC;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="780" y="730" width="150" height="30" as="geometry">
             <mxRectangle x="780" y="730" width="1800" height="330" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-43" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Количество граждан, принимающих участие в добровольческой деятельности, получивших государственную поддержку в форме субсидий бюджетным учреждениям&lt;/li&gt;&lt;li&gt;Количество грантов и стипендий, врученных молодым авторам и исполнителям за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Количество образовательных организаций высшего образования всех форм собственности и ведомственной принадлежности, в которых внедрены рабочие программы воспитания и календарные планы воспитательной работы&lt;/li&gt;&lt;li&gt;Количество образовательных организаций общего и среднего профессионального образования всех форм собственности и ведомственной принадлежности, в которых внедрены рабочие программы воспитания и календарные планы воспитательной работы&lt;/li&gt;&lt;li&gt;Количество организаций культуры, получивших современное оборудование, нарастающим итогом&lt;/li&gt;&lt;li&gt;Количество поддержанных творческих инициатив и проектов&lt;/li&gt;&lt;li&gt;Количество работников сферы культуры, прошедших повышение квалификации&lt;/li&gt;&lt;li&gt;Количество реализуемых проектов, в том числе в рамках грантовой поддержки некоммерческим организациям, направленных на укрепление российской гражданской идентичности на основе духовно-нравственных и культурных ценностей народов РФ за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Количество созданных (реконструированных) и капитально отремонтированных объектов организации культуры, нарастающим итогом&lt;/li&gt;&lt;li&gt;Количество специалистов сферы культуры, повысивших квалификацию на базе Центров непрерывного образования и повышения квалификации творческих и управленческих кадров в сфере культуры (чел.), нарастающим итогом&lt;/li&gt;&lt;li&gt;Условия для воспитания гармонично развитой и социально ответственной личности (базовое значение - 2020 год)&lt;/li&gt;&lt;li&gt;Число обучающихся образовательных организаций (общего и среднего профессионального образования), охваченных программами воспитания&lt;/li&gt;&lt;li&gt;Число посетителей всероссийских, международных и межрегиональных творческих проектов в области музыкального, театрального и изобразительного искусства за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Число посетителей мероприятий некоммерческих организаций, направленных на укрепление российской гражданской идентичности на основе духовно-нравственных и культурных ценностей народов РФ за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Число посещений культурных мероприятий&lt;/li&gt;&lt;li&gt;Число участников культурно-просветительских программ для школьников за счет средств регионального бюджета субъекта&lt;/li&gt;&lt;li&gt;Число участников межведомственного проекта «Культура для школьников»&lt;/li&gt;&lt;li&gt;Число участников мероприятий, направленных на укрепление общероссийского гражданского единства за счет консолидированного бюджета субъекта&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFCC;" vertex="1" parent="7rP-CeqJjFyxMtN8SH18-41">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-43" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Количество граждан, принимающих участие в добровольческой деятельности, получивших государственную поддержку в форме субсидий бюджетным учреждениям&lt;/li&gt;&lt;li&gt;Количество грантов и стипендий, врученных молодым авторам и исполнителям за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Количество образовательных организаций высшего образования всех форм собственности и ведомственной принадлежности, в которых внедрены рабочие программы воспитания и календарные планы воспитательной работы&lt;/li&gt;&lt;li&gt;Количество образовательных организаций общего и среднего профессионального образования всех форм собственности и ведомственной принадлежности, в которых внедрены рабочие программы воспитания и календарные планы воспитательной работы&lt;/li&gt;&lt;li&gt;Количество организаций культуры, получивших современное оборудование, нарастающим итогом&lt;/li&gt;&lt;li&gt;Количество поддержанных творческих инициатив и проектов&lt;/li&gt;&lt;li&gt;Количество работников сферы культуры, прошедших повышение квалификации&lt;/li&gt;&lt;li&gt;Количество реализуемых проектов, в том числе в рамках грантовой поддержки некоммерческим организациям, направленных на укрепление российской гражданской идентичности на основе духовно-нравственных и культурных ценностей народов РФ за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Количество созданных (реконструированных) и капитально отремонтированных объектов организации культуры, нарастающим итогом&lt;/li&gt;&lt;li&gt;Количество специалистов сферы культуры, повысивших квалификацию на базе Центров непрерывного образования и повышения квалификации творческих и управленческих кадров в сфере культуры (чел.), нарастающим итогом&lt;/li&gt;&lt;li&gt;Условия для воспитания гармонично развитой и социально ответственной личности (базовое значение - 2020 год)&lt;/li&gt;&lt;li&gt;Число обучающихся образовательных организаций (общего и среднего профессионального образования), охваченных программами воспитания&lt;/li&gt;&lt;li&gt;Число посетителей всероссийских, международных и межрегиональных творческих проектов в области музыкального, театрального и изобразительного искусства за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Число посетителей мероприятий некоммерческих организаций, направленных на укрепление российской гражданской идентичности на основе духовно-нравственных и культурных ценностей народов РФ за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Число посещений культурных мероприятий&lt;/li&gt;&lt;li&gt;Число участников культурно-просветительских программ для школьников за счет средств регионального бюджета субъекта&lt;/li&gt;&lt;li&gt;Число участников межведомственного проекта «Культура для школьников»&lt;/li&gt;&lt;li&gt;Число участников мероприятий, направленных на укрепление общероссийского гражданского единства за счет консолидированного бюджета субъекта&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFFCC;" parent="7rP-CeqJjFyxMtN8SH18-41" vertex="1">
           <mxGeometry y="27" width="1790" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-49" value="&lt;b&gt;Индикаторы ОВДЛ&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#67AB9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-49" value="&lt;b&gt;Индикаторы ОВДЛ&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#67AB9F;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="230" y="850" width="150" height="30" as="geometry">
             <mxRectangle x="230" y="850" width="480" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-50" value="&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Запас семян лесных растений для лесовостановления и лесоразведения, кг&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество выращенного посадочного материала лесных растений, тысяч штук&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество населения, вовлеченного в мероприятия по воспроизводству лесов и лесоразведению&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь лесовостановления и лесоразведения, гектар&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь погибших лесных насаждений, гектар&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#67AB9F;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="7rP-CeqJjFyxMtN8SH18-49">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-50" value="&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Запас семян лесных растений для лесовостановления и лесоразведения, кг&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество выращенного посадочного материала лесных растений, тысяч штук&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество населения, вовлеченного в мероприятия по воспроизводству лесов и лесоразведению&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь лесовостановления и лесоразведения, гектар&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь погибших лесных насаждений, гектар&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#67AB9F;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7rP-CeqJjFyxMtN8SH18-49" vertex="1">
           <mxGeometry y="26" width="480" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-1" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#666600;labelPosition=center;align=center;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="815" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-2" value="Образование" style="fillColor=#666600;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="800" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-3" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Расходы на оплату труда;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="855" width="160" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
