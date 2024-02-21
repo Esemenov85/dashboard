@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-21T07:18:13.127Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Vd0y8o0n9vufTwcOjOED" version="23.1.5" type="github">
+<mxfile modified="2024-02-21T07:26:13.579Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="W0DppQbGVuzmiLJ9GkkT" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -121,11 +121,8 @@
         <mxCell id="7rP-CeqJjFyxMtN8SH18-11" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="140" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7rP-CeqJjFyxMtN8SH18-12" value="ФНС" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="210" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7rP-CeqJjFyxMtN8SH18-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7rP-CeqJjFyxMtN8SH18-13" target="7rP-CeqJjFyxMtN8SH18-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7rP-CeqJjFyxMtN8SH18-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="210" width="40" height="60" as="geometry" />
@@ -209,6 +206,9 @@
         </mxCell>
         <mxCell id="7rP-CeqJjFyxMtN8SH18-50" value="&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Запас семян лесных растений для лесовостановления и лесоразведения, кг&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество выращенного посадочного материала лесных растений, тысяч штук&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Количество населения, вовлеченного в мероприятия по воспроизводству лесов и лесоразведению&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Отношение площади лесовосстановления и лесоразведения к площади вырубленных и погибших лесных насаждений&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь лесовостановления и лесоразведения, гектар&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Площадь погибших лесных насаждений, гектар&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#67AB9F;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="7rP-CeqJjFyxMtN8SH18-49" vertex="1">
           <mxGeometry y="26" width="480" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7rP-CeqJjFyxMtN8SH18-12" target="7rP-CeqJjFyxMtN8SH18-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
