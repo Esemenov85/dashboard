@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-21T07:38:00.791Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-mnCYk26MdvW_0Qd8wI3" version="23.1.5" type="github">
+<mxfile modified="2024-02-21T07:55:03.876Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="C1JaM-Rw66Dcokxe7ahU" version="23.1.5" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -225,8 +225,19 @@
         <mxCell id="sbukM5SMqKLT1o0fI3T_-14" value="Молодежь" style="fillColor=#AE4132;strokecolor=none;rounded=1;fontColor=#FFFFFF;strokeColor=none;fontStyle=1;fontSize=14;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="987" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sbukM5SMqKLT1o0fI3T_-15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Качество оказываемых услуг;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sbukM5SMqKLT1o0fI3T_-15" target="sbukM5SMqKLT1o0fI3T_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-15" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;&quot;&gt;Доля граждан, вовлеченных&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="1037" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-16" value="&lt;b&gt;Индикаторы ОВДЛ&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#AE4132;strokeColor=#FFFFFF;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="230" y="1067" width="150" height="30" as="geometry">
+            <mxRectangle x="10" y="1067" width="390" height="270" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sbukM5SMqKLT1o0fI3T_-17" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Доля граждан, вовлеченных центрами (сообществами, объединениями) поддержки добровольчества (волонтерства) на базе образовательных организаций, некоммерческих организаций, государственных и муниципальных учреждений в добровольческую (волонтерскую) деятельность&lt;/li&gt;&lt;li&gt;Доля граждан, занимающихся добровольческой (волонтерской) деятельностью&lt;/li&gt;&lt;li&gt;Количество реализуемых проектов, в том числе в рамках грантового конкурса молодежных инициатив за счет средств консолидированного бюджета субъекта&lt;/li&gt;&lt;li&gt;Число молодежи, задействованной в мероприятиях по вовлечению в творческую деятельность&lt;/li&gt;&lt;li&gt;Число молодежи, принявшей участие в мероприятиях патриотической направленности&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=#AE4132;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="sbukM5SMqKLT1o0fI3T_-16">
+          <mxGeometry y="30" width="390" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
